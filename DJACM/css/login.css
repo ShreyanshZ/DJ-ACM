@@ -1,0 +1,97 @@
+#heading
+{
+	font-size:35px;
+	margin-bottom:5px;
+	font-family: 'KulminoituvaRegular', helvetica, sans-serif;
+	text-align:center;
+	color:white;
+	font-weight:bold;
+	background:#091A2A;
+	height:40px;
+	padding-bottom:7px;
+	border-radius:5px;
+}
+
+/*.cover{
+	height:100%;
+	width:450px;
+	background:white;
+	border:1px solid #091A2A;
+	border-radius:10px;
+}
+
+.coverlogin{
+	height:100%;
+	width:450px;
+	background:white;
+	border:1px solid #091A2A;
+	border-radius:10px;
+}
+*/
+input {
+    border: 0px solid #006;
+    background:#EEEEEE;
+	border-radius:5px;
+	width:260px;
+	height:30px;
+}
+
+#row{
+	margin-top:35px;
+	
+}
+
+
+
+label {
+    display: block;
+    width: 150px;
+    float: left;
+    
+    text-align: right;
+	font-size:18px;
+	color:#091A2A;
+	font-weight:bold;
+	font-family:Arial;
+}
+
+.button {
+	background:#091A2A;
+	width:100px;
+	border:none;
+	color:white;
+	font-weight:bold;
+	margin-left:175px;
+	margin-bottom:25px;
+	
+	border-radius:5px;
+}
+
+
+table{
+	border:none;
+	float:right;
+	font-family:Arial;
+	
+}
+
+td{
+	margin:10px;
+	
+	border:none;
+	padding:5px;
+	/*background:#091A2A;*/
+	border-radius:10px;
+}
+
+a{
+	text-decoration:none;
+}
+.rem_pad
+{
+	padding: 0px !important;
+}
+#logname
+{
+	font-weight: bolder !important;
+}

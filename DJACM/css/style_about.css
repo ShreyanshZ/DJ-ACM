@@ -1,0 +1,51 @@
+.heading 
+{
+	font-weight:bold; 
+	color: #385693;
+}
+
+
+.memb
+{
+	margin-top: 30px;
+	width:280px;
+	height:50px;
+	background-image: url('memb.png');
+}
+
+.wedo
+{
+	width:280px;
+	height:50px;
+	margin-bottom: -15px;
+	background-image: url('wedo.png');
+}
+
+#what p 
+{
+	font-size:14px; 
+	letter-spacing:1px;
+}
+
+#text 
+{
+	
+	font-size:16px; 
+	color:#292829; 
+	letter-spacing:1px; 
+	margin-top:45px;
+}
+
+#icon {height:85px; width:85px; float:left; margin-top:-7px;}
+
+#what1 #icon {background-image:url(works.png); }
+
+#what2 #icon {background-image:url(magazine.png);}
+
+#what3 #icon {background-image:url(ivs.png);}
+
+#what4 #icon {background-image:url(seminar.png);}
+
+#membership { margin:0 auto;}
+#membership table td {font-size:12px; }
+#membership table td a:hover { color:#2e63bf;}

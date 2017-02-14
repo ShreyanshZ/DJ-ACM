@@ -1,0 +1,74 @@
+.LibT
+		{
+			width:200px;
+			height:50px;
+			background-image: url('LibT.png');
+		}
+		
+#background-image
+{
+	font-family:Verdana;
+	font-size: 14px;
+	margin: 45px;
+	width: 800px;
+	text-align: left;
+	border-collapse: collapse;
+	/*border:1px solid #327;*/
+	
+}
+#background-image th
+{
+	padding: 12px;
+	font-weight: normal;
+	font-size: 14px;
+	color: white;
+	background-color:#0a2133;
+	
+}
+#background-image td
+{
+	padding: 13px;
+	line-height:14px;
+	color: #527;
+	border-top: 1px solid #569;
+	/*padding:15px;*/
+}
+#background-image tfoot td
+{
+	font-size: 11px;
+}
+#background-image tbody td
+{
+	background-color: rgba(142,190,230,0.1);
+}
+
+#background-image tbody tr:hover td
+{
+	text-shadow:0.2px 0.4px #022e41;
+	background: none;
+}
+
+
+
+/*Button*/
+
+.pdfdl {
+	background-color:#0a2133;
+	border:1px solid #3866a3;
+	display:inline-block;
+	color:#ffffff;
+	font-family:Trebuchet MS;
+	font-size:13px;
+	height:30px;
+	line-height:30px;
+	width:105px;
+	text-decoration:none;
+	text-align:center;	
+	margin-left:30%;
+}.pdfdl:hover {
+	background-color:#1d5682;
+}.pdfdl:active {
+	position:relative;
+	top:1px;
+}
+
